@@ -6,13 +6,13 @@
 class ExampleConstants {
     
     /** The AWS API key provided by StockX to access StockX APIs. */
-    public static $AWS_API_KEY = "<API Key>";
+    public static $AWS_API_KEY = "e1DqFdSKT9Ew6ozFEzTs77lJdSytDTb7VMQa9Opj";
     
     /** The StockX account username to authenticate with. */
-    public static $STOCKX_USERNAME = "<StockX Username>";
+    public static $STOCKX_USERNAME = "ebaysmsneaker@gmail.com";
     
     /** The StockX account password to authenticate with. */
-    public static $STOCKX_PASSWORD = "<StockX Password>";
+    public static $STOCKX_PASSWORD = "pys2010#1";
     
     /** The product ID to lookup */
     public static $DEMO_PRODUCT_ID = "air-jordan-1-retro-high-off-white-chicago";
